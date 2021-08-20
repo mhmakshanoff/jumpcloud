@@ -1,0 +1,2 @@
+# pytest installation
+pytest == 6.2.4
