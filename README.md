@@ -3,11 +3,11 @@
 ## System Specifications
 
 - MacOS Big Sur Version 11.3
-- Homebrew (recommended)
- - Instructions for installing Homebrew can be found at this [link](https://brew.sh/)
-- Python
- - (recommended) Latest Python can be installed via Homebrew as a formula (brew install python)
- - Python binaries can be downloaded at this [link](https://www.python.org/downloads/)
+- Homebrew *(recommended)*
+  - Instructions for installing Homebrew can be found at this [link](https://brew.sh/)
+- Python :snake:
+  - *(recommended)* Latest Python can be installed via Homebrew as a formula (brew install python)
+  - Python binaries can be downloaded at this [link](https://www.python.org/downloads/)
 
 ## Installation
 
