@@ -14,12 +14,12 @@
 - After the above is installed, clone [this repo](https://github.com/mhmakshanoff/jumpcloud)
 - CD into this directory
 - Run `pip install -r requirements.txt`
-- To install the Password Hashing Application, run `./install-app.sh`
+- To install the Password Hashing Application, run `bin/install-app.sh`
 
 ## Running Tests
 
 - To run the whole test suite, run `pytest`
-- To specify a specific file, run `pytest file_name.py`
+- To specify a specific file, run `pytest tests/file_name.py`
 - To run tests with a specific marker, run `pytest -v -m marker`
   - Markers are set based on priority: Critical, High, Medium, Low
 - To run tests without a specific marker, run `pytest -v -m 'not marker'`
