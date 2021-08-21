@@ -1,6 +1,9 @@
 # JumpCloud Assessment from Miriam Makshanoff
 
-## System Specifications
+## Test Cases & Bug Reports
+- These can be found in /test_cases
+
+## System Specifications for Automated Tests
 
 - MacOS Big Sur Version 11.3
 - Homebrew *(recommended)*
