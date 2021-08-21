@@ -11,15 +11,15 @@
 
 ## Installation
 
-- After the above is installed, clone this repo:
+- After the above is installed, clone [this repo](https://github.com/mhmakshanoff/jumpcloud)
 - CD into this directory
 - Run `pip install -r requirements.txt`
-
-- The password hashing application can be obtained by running `wget --no-check-certificate --no-proxy ‘https://s3.amazonaws.com/qa-broken-hashserve/broken-hashserve.tgz’`
-
-- Set a PORT environment variable by running `export PORT=8088`
+- To install the Password Hashing Application, run `./install-app.sh`
 
 ## Running Tests
 
 - To run the whole test suite, run `pytest`
 - To specify a specific file, run `pytest file_name.py`
+- To run tests with a specific marker, run `pytest -v -m marker`
+  - Markers are set based on priority: Critical, High, Medium, Low
+- To run tests without a specific marker, run `pytest -v -m 'not marker'`
