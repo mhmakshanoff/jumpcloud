@@ -1,10 +1,10 @@
 # Test Cases & Bug Reports for Password Hashing Application
 
-![Test Cases 1](https://monosnap.com/file/gLyThI5xr0yksIOZ8eB6TIgNoCzKJ3)
+[![Test Cases 1](https://i.postimg.cc/DzhtNjZf/Jump-Cloud-Assessment-Test-Cases-Bug-Reports-Google-Sheets-2021-08-21-12-26-39.png)](https://postimg.cc/3kLS4Zmz)
 
-![Test Cases 2](https://monosnap.com/file/iGxXoW47kILue0Wx8jjzFgMlTWE0Cc)
+[![Test Cases 2](https://i.postimg.cc/y6SCkSwH/Jump-Cloud-Assessment-Test-Cases-Bug-Reports-Google-Sheets-2021-08-21-12-27-16.png)](https://postimg.cc/bd8B5dyC)
 
-![Test Cases 3](https://monosnap.com/file/O6XbqiA67T1LCw34Wmdg51y7H6d1Ja)
+[![Test Cases 3](https://i.postimg.cc/Vst2YPCs/Jump-Cloud-Assessment-Test-Cases-Bug-Reports-Google-Sheets-2021-08-21-12-29-16-1.png)](https://postimg.cc/MXW9D45g)
 
 Link to Google Sheet of test cases [here](https://docs.google.com/spreadsheets/d/1jut0NOt1PbnMPBdSR-J28ZTDvj_DJxxgR7zOhJwQfhE/edit?usp=sharing)
 
